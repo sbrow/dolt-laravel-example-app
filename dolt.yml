@@ -1,0 +1,22 @@
+log_level: warning
+
+behavior:
+  read_only: false
+  autocommit: true
+
+user:
+  name: root
+  password: ""
+
+listener:
+  host: localhost
+  port: 3306
+  max_connections: 100
+  read_timeout_millis: 288000000
+  write_timeout_millis: 288000000
+
+#remotesapi:
+  #  port: 6789
+
+performance:
+  query_parallelism: null
