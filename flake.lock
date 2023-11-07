@@ -6,11 +6,11 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1697726880,
-        "narHash": "sha256-W8mNxETgFYfgmwvyWjM0Y9ASgXzBXBhxCQyTnXrbyGs=",
+        "lastModified": 1699370395,
+        "narHash": "sha256-avMHHtBfpecPV3QkHWNfR3DBEZB4Re6TJG4ptvZwfDI=",
         "owner": "sbrow",
         "repo": "dolt",
-        "rev": "5e325f33b24e96c1ef126a6b984ef8e1fa23cfa4",
+        "rev": "8bb97a782cb71409da760b54f955c4a5ee590868",
         "type": "github"
       },
       "original": {
